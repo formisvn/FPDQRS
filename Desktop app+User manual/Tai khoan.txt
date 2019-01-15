@@ -1,0 +1,5 @@
+Tai khoan hat kiem lam (nhan vien)	
+hatkiemlam/hatkiemlam
+
+Tai khoan hat kiem lam (truong phong)
+hatkiemlam_tp/8QZ2HWRA

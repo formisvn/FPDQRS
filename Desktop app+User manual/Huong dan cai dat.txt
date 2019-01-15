@@ -1,0 +1,25 @@
+DB: formis
+Account: formis_dev/formis@rew
+
+
+jdbc_slv.url=jdbc:postgresql://localhost:5432/formis
+jdbc.username=formis_dev
+jdbc.password=formis@rew
+
+
+
+http://fpdreport.vnforest.gov.vn/formisWS/
+http://fpdreport.vnforest.gov.vn
+Tài khoản quản trị: admin/admin
+
+formis@rew
+
+
+http://fpdreport.vnforest.gov.vn/formisWS/formissync?wsdl
+http://fpdreport.vnforest.gov.vn/formis/
+115.146.126.7:6869/formisWS/formissync?wsdl
+
+
+		SimpleDateFormat sdf = new SimpleDateFormat("dd-M-yyyy hh:mm:ss");
+		String dateInString = "11-01-2018 23:30:56";
+		Date date = sdf.parse(dateInString);
